@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Marcel
 
-<!--
-**marckiller/marckiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working on data-driven simulations, time series models, and agent-based systems — mostly in Python, Julia, and C++.  
+I enjoy building tools and pipelines for real-world data problems, particularly in physics and finance.  
+I'm also open to business collaboration, research projects, and meaningful non-profit work that involves data and modeling.
 
-Here are some ideas to get you started:
+## 🧠 Interests
+- Data pipelines & backend systems  
+- Time series reconstruction & forecasting  
+- Agent-based modeling  
+- Machine learning in financial applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Selected Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Stock Price Reconstruction](https://github.com/marckiller/time_series_reconstruction) | Neural model + API for filling incomplete minute-level prices from hourly data | PyTorch, FastAPI |
+| [Market Simulator](https://github.com/marckiller/stock-market-abm-simulation) | Agent-based market simulation with a custom limit order book | Python |
+| [Data Aggregation Hub](https://github.com/marckiller/modular-data-pipeline) | Modular API-based system for collecting and serving structured data | Python, FastAPI |
+| [Gas Simulation with GUI](https://github.com/marckiller/2d-molecular-motion) | Physics-based visual simulation of molecular motion and energy exchange | PyGame, NumPy |
+
+## 📫 Reach Me
+- 📧 marcel.polkosnik@gmail.com  
+- 🌐 [polkosnik.pl](https://polkosnik.pl)  
+- 💼 [LinkedIn](https://linkedin.com/in/marcel-polkosnik)
