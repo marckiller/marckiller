@@ -15,6 +15,7 @@ I'm also open to business collaboration, research projects, and meaningful non-p
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Stock Price Reconstruction](https://github.com/marckiller/time_series_reconstruction) | Neural model + API for filling incomplete minute-level prices from hourly data | PyTorch, FastAPI |
+| [Banking System Simulation](https://github.com/marckiller/julia-banking-system-abm) | Agent-based simulation of a multi-bank system under liquidity and reserve constraints | Julia |
 | [Market Simulator](https://github.com/marckiller/stock-market-abm-simulation) | Agent-based market simulation with a custom limit order book | Python |
 | [Data Aggregation Hub](https://github.com/marckiller/modular-data-pipeline) | Modular API-based system for collecting and serving structured data | Python, FastAPI |
 | [Gas Simulation with GUI](https://github.com/marckiller/2d-molecular-motion) | Physics-based visual simulation of molecular motion and energy exchange | PyGame, NumPy |
